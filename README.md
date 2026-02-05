@@ -15,6 +15,7 @@ The Lakes microservice includes a lakes object model and relational database usi
   "volume": int
 }
 `
+
 The name and location have a default value of "unspecified". Volume is meant to represent kilometres squared.
 
 ## Tech Stack
